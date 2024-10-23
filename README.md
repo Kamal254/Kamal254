@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Kamal254
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ML/DL/IOT/Robotics
-- 💞️ I’m looking to collaborate on any projects which improve my skills related to AI.
-- 📫 How to reach me : Email - kamalxs321@gmail.com
+### 👋, I am Kamal
 
-<!---
-Kamal254/Kamal254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I'm Kamal Singh, a **experienced Software engineer** and **Data Science Enthusiast** with Having excellent knowledge in Building and Deploying Predictive and Generative models in Production. 
+Currently I am looking out for opportunities in AI/ML field for Data scientist, ML engineer role in any respected company specially in startups to improve my skills quickly as possible.
+
+##### Tools and Programming Skills
+- **Programming Skills**: C/C++, Python, SQL, Data structures & Algorithms, Object-Oriented Programming (OOP), GitHub, APIs, Agile Methodology, Unit & Performance Testing.
+- **Data Science Skills**: Generative & Predictive Modeling, Transfer Learning, Fine Tuning, Statistical Analysis, Data Pipeline, Model Evaluation & Optimization, Model Deployment (Serving, Versioning), ML orchestration, CI/CD.
+- **Tools & Platforms**: Scikit-learn, TensorFlow, Kubeflow, mlflow, Docker, Jenkins, Google Cloud (Vertex AI).
+
+
+#####Contact me 
+Visit my website : https://kamals-portfolio-website.webflow.io/
+Email : kamalxs321@gmail.com
+Contact Number : 7568246748
