@@ -10,6 +10,6 @@ Currently I am looking out for opportunities in AI/ML field for Data scientist, 
 
 
 #####Contact me 
-Visit my website : https://kamals-portfolio-website.webflow.io/
-Email : kamalxs321@gmail.com
-Contact Number : 7568246748
+- Visit my website : https://kamals-portfolio-website.webflow.io/
+- Email : kamalxs321@gmail.com
+- Contact Number : 7568246748
